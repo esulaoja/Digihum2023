@@ -1,2 +1,4 @@
 Failide arv: 4
-Sõnade arv:  Kallas.txt 0
+Sõnade arv: 
+ChatCPT.txt 63
+Kaitsevägi.txt 247
