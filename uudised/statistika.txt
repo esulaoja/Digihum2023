@@ -1,2 +1,2 @@
 Failide arv: 4
-Kallas.txt 0
+Sõnade arv:  Kallas.txt 0
