@@ -1,6 +1,6 @@
 Failide arv: 4
-Sõnade/tähtede arv uudistes: 
-ChatCPT.txt 63
+ChatGPT.txt 63
+Sõnade arv uudistes: 
 Kaitsevägi.txt 247
 Maksutõus.txt 166
 ViruKeskus.txt 71
