@@ -1,1 +1,2 @@
-Kallas.txt 208
+Failide arv: 4
+Kallas.txt 0
