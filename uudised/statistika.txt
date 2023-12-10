@@ -1,4 +1,6 @@
 Failide arv: 4
-Sõnade arv: 
+Sõnade/tähtede arv uudistes: 
 ChatCPT.txt 63
 Kaitsevägi.txt 247
+Maksutõus.txt 166
+ViruKeskus.txt 71
