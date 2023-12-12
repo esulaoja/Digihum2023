@@ -1,6 +1,6 @@
 Failide arv: 4
 Sõnade arv uudistes: 
 ChatGPT.txt 63
-Kaitsevägi.txt 247
-Maksutõus.txt 166
-ViruKeskus.txt 71
+Kaitsevägi.txt 63
+Maksutõus.txt 63
+ViruKeskus.txt 63
